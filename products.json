@@ -141,5 +141,16 @@
   "wmin": 2,
   "inStock": true,
   "id": "d17"
+ },
+ {
+  "name": "شيبسي",
+  "price": 135,
+  "wp": 130,
+  "wmin": 129,
+  "unit": "100",
+  "emoji": "😘",
+  "cat": "بقالة",
+  "inStock": true,
+  "id": "pmw2ucosc9or"
  }
 ]
